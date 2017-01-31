@@ -1,9 +1,10 @@
 # 群成员须知 #
 
 ## 成员权限 ##
-Administrators：创建并修改 repository 并且 manage team.
-Developer:创建并修改 repository 
-Member:浏览
+
+* Administrators：创建并修改 repository 并且 manage team.
+* Developer:创建并修改 repository 
+* Member:浏览
 
 ## repository && project 结构 ##
 
