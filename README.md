@@ -2,7 +2,7 @@
 
 ## 成员权限 ##
 
-* Administrators：创建并修改 repository 并且 manage team.
+* Administrators：创建并修改 project 和 repository.
 * Developer:创建并修改 repository 
 * Member:浏览 repositories
 
