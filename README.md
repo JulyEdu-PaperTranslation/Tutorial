@@ -3,8 +3,8 @@
 ## 成员权限 ##
 
 * Administrators：创建并修改 project 和 repository.
-* Developer:创建并修改 repository 
-* Member:浏览 repositories
+* Developer:      修改 repository 
+* Member:         浏览 repositories
 
 ## repository && project 结构 ##
 * 每篇文章对应一个repository，由翻译组或者administrators 来创建
