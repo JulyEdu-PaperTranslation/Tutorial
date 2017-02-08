@@ -1,4 +1,4 @@
-# Git 使用介绍 #
+# Git/GitHub 使用介绍 #
 * Git
  - 猴子版Git指南: http://backlogtool.com/git-guide/cn/
  - 廖雪峰Git指南: https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng/blob/master/Git%E6%95%99%E7%A8%8B.pdf
