@@ -21,3 +21,7 @@
 **\setCJKmainfont{AR PL UMing CN}  %换成本地字体**
 
 * 例子: https://github.com/JulyEdu-PaperTranslation/DeepLearning/blob/master/conditional_generative_adversarial_networks/workshop.tex
+
+## GitHub 使用指南 ##
+
+请参考:https://github.com/JulyEdu-PaperTranslation/Tutorial/blob/master/GitTutorial.md
