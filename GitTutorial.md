@@ -7,3 +7,8 @@
  - 2.拉取代码及代码更新操作 http://v.youku.com/v_show/id_XNjE5OTc4NDAw.html?from=s1.8-1-1.2&spm=a2h0k.8191407.0.0
  - 3.fork项目 http://v.youku.com/v_show/id_XNjE5OTc5NjQ4.html?from=s1.8-1-1.2&spm=a2h0k.8191407.0.0
  - 4.如何发送代码反馈 http://v.youku.com/v_show/id_XNjIwMDc5NTIw.html?from=s1.8-1-1.2&spm=a2h0k.8191407.0.0
+* GitHub Windows 客户端 
+ - **GitHub for Windows**: http://wiki.jikexueyuan.com/project/github-basics/github-for-windows.html
+ - **文科妹子,怎样使用** GitHub: https://www.zhihu.com/question/20070065
+* GitHub平台翻译项目举例
+ - **中文版 Apple 官方 Swift 教程**: https://github.com/numbbbbb/the-swift-programming-language-in-chinese
