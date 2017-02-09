@@ -15,10 +15,9 @@
  
 ### latex 配置 ###
 * 在源代码添加如下的两行 
-
-**\usepackage{xeCJK}  %必须加xeCJK包**
-
-**\setCJKmainfont{AR PL UMing CN}  %换成本地字体**
+ > **\usepackage{xeCJK}  %必须加xeCJK包**
+ >
+ > **\setCJKmainfont{AR PL UMing CN}  %换成本地字体**
 
 * 例子: https://github.com/JulyEdu-PaperTranslation/DeepLearning/blob/master/conditional_generative_adversarial_networks/workshop.tex
 
