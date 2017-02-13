@@ -14,6 +14,7 @@
 * 点击 "download source"
  
 ### latex 配置 ###
+* latex in linus: http://blog.sina.com.cn/s/blog_4c20fe7b0100vjbj.html
 * 在源代码添加如下的两行 
  > **\usepackage{xeCJK}  %必须加xeCJK包**
  >
