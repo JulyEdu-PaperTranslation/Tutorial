@@ -15,9 +15,8 @@
  
 ### latex 配置 ###
 * latex in linus: 
- - http://blog.sina.com.cn/s/blog_4c20fe7b0100vjbj.html
- - http://blog.sina.com.cn/s/blog_7101508c0100tcb4.html
- - http://www.mikewootc.com/wiki/tool/doc_process/latex_chinese_ubuntu_setup.html
+ - Short: http://blog.sina.com.cn/s/blog_7101508c0100tcb4.html
+ - Long: http://www.mikewootc.com/wiki/tool/doc_process/latex_chinese_ubuntu_setup.html
 * latex in windows:
  - http://www.mikewootc.com/wiki/tool/doc_process/latex_tutor.html
 * 在源代码添加如下的两行 
