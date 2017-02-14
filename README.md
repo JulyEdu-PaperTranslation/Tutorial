@@ -23,8 +23,9 @@
  > **\usepackage{xeCJK}  %必须加xeCJK包**
  >
  > **\setCJKmainfont{AR PL UMing CN}  %换成本地字体**
-
-* [例子](https://github.com/JulyEdu-PaperTranslation/DeepLearning/blob/master/conditional_generative_adversarial_networks/workshop.tex)
+ >
+ > [例子](https://github.com/JulyEdu-PaperTranslation/DeepLearning/blob/master/conditional_generative_adversarial_networks/workshop.tex)
+ 
 * 背景加入水印
  - [如何给你的文章添加背景与水印](http://blog.sina.com.cn/s/blog_5e16f1770102fd25.html)
 
