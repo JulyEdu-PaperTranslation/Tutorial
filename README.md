@@ -26,4 +26,5 @@
 * [例子](https://github.com/JulyEdu-PaperTranslation/DeepLearning/blob/master/conditional_generative_adversarial_networks/workshop.tex)
 * [背景加入水印](http://blog.sina.com.cn/s/blog_5e16f1770102fd25.html)
 
-[## GitHub 使用指南 ##](https://github.com/JulyEdu-PaperTranslation/Tutorial/blob/master/GitTutorial.md)
+## GitHub 使用指南 ## 
+[请参考](https://github.com/JulyEdu-PaperTranslation/Tutorial/blob/master/GitTutorial.md)
