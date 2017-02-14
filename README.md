@@ -29,5 +29,5 @@
 * 背景加入水印
  - [如何给你的文章添加背景与水印](http://blog.sina.com.cn/s/blog_5e16f1770102fd25.html)
 
-## GitHub 使用指南 ## 
-[请参考](https://github.com/JulyEdu-PaperTranslation/Tutorial/blob/master/GitTutorial.md)
+## GitHub 使用指南 ##
+ * 请参考:[Git/GitHub 使用介绍](https://github.com/JulyEdu-PaperTranslation/Tutorial/blob/master/GitTutorial.md)
