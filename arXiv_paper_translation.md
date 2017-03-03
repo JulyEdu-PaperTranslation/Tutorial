@@ -19,3 +19,5 @@
  
 * 背景加入水印
  - [如何给你的文章添加背景与水印](http://blog.sina.com.cn/s/blog_5e16f1770102fd25.html)
+
+### TODO: 添加 CTex指南
