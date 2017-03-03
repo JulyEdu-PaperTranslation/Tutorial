@@ -21,3 +21,5 @@
  - [如何给你的文章添加背景与水印](http://blog.sina.com.cn/s/blog_5e16f1770102fd25.html)
 
 ### TODO: 添加 CTex指南
+* [下载](http://www.ctex.org/HomePage)
+* [使用](https://www.sharelatex.com/learn/Chinese)
